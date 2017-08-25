@@ -3,7 +3,7 @@ layout: post
 title: 《黑客与画家》：如何拥有灵动的思想
 date: 2017-08-22
 categories: blog
-tags: [写作,千字文]
+tags: [读书]
 description: 打开视角，独立思考，才能拥有灵动的思想。
 
 ---
