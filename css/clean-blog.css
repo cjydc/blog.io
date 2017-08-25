@@ -85,7 +85,7 @@ hr.small {
     background-attachment: initial;
     background-origin: initial;
     background-clip: initial;
-    background-color: rgba(221, 221, 221, 0.1);
+    background-color: #DC143C;
 }
 .post-container a:hover,
 .post-container a:focus {
