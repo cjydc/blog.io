@@ -16,7 +16,7 @@ header-img: "img/green.jpg"
 
 ### CONTACT
 
-- [博客：www.duchuangjun.com](www.duchuangjun.com)
+- [博客：www.duchuangjun.com](http://www.duchuangjun.com)
 
 - [简书：独创君](http://www.jianshu.com/u/e7224205072a)
 
