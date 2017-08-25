@@ -18,9 +18,9 @@ header-img: "img/green.jpg"
 
 - [博客：www.duchuangjun.com](www.duchuangjun.com)
 
-- [简书](http://www.jianshu.com/u/e7224205072a)
+- [简书：独创君](http://www.jianshu.com/u/e7224205072a)
 
-- 公众号：独创君（duchuangjun）
+- [公众号：duchuangjun](http://ov82ohkmk.bkt.clouddn.com/17-8-25/58406373.jpg)
 
 
 
