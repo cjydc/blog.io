@@ -75,17 +75,7 @@ hr.small {
   }
 }
 .post-container a {
-  /*color: #2B4180;*/
-    background-image: initial;
-    background-position-x: initial;
-    background-position-y: initial;
-    background-size: initial;
-    background-repeat-x: initial;
-    background-repeat-y: initial;
-    background-attachment: initial;
-    background-origin: initial;
-    background-clip: initial;
-    background-color: #DC143C;
+  color: #2B4180;
 }
 .post-container a:hover,
 .post-container a:focus {
