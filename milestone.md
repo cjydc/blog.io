@@ -11,9 +11,8 @@ header-img: "img/zhihu.jpg"
 </center>
 
 
-###代表作：
+### 发端：
 
-发端
 - [《持续写作，把美好交付给自己》](http://duchuangjun.com/blog/2017/08/22/start-to-write/)
 
 
