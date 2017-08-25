@@ -3,7 +3,7 @@ layout: post
 title: 写作小感
 date: 2017-08-24
 categories: blog
-tags: [写作,千字文]
+tags: [写作]
 description: 路漫漫其修远兮。而它又是如此迷人，就像这生活一样。
 
 ---
