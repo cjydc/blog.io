@@ -3,7 +3,7 @@ layout: post
 title: 有没有这样一条微信，给你温暖与感伤
 date: 2017-08-23
 categories: blog
-tags: []
+tags: [生活]
 description: 我的每一天就是从这样的瞬间真正开始的。
 
 ---
