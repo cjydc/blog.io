@@ -5,6 +5,9 @@ description: "我的所有文章"
 header-img: "img/orange.jpg"
 ---
 
+<center>
+    <p><img src="http://ov82ohkmk.bkt.clouddn.com/17-8-25/94244079.jpg" align="center"></p>
+</center>
 
 <ul class="listing">
 {% for post in site.posts %}
