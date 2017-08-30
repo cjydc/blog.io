@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 持续写作，把美好交付给自己
-date: 2017-08-22
+date: 2017-08-21
 categories: blog
 tags: [写作]
 description: 写作,是我久违的朋友。留下痕迹，就是我此刻想要做的事情。
