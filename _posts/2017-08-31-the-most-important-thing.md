@@ -8,7 +8,7 @@ description: 这是个浪潮，看看它会把我推到哪去吧。
 
 ---
 
-![](http://ov82ohkmk.bkt.clouddn.com/17-8-25/51769021.jpg)
+![](http://ov82ohkmk.bkt.clouddn.com/17-8-31/52375758.jpg)
 
 “下一位选手。”
 
