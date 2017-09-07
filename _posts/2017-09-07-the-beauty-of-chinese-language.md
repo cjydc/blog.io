@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 故事是咀嚼过的生活
+title: 美好中文的样子 | 读《翻译乃大道》
 date: 2017-09-07
 categories: blog
 tags: [读书]
 description: 措词简洁、语法对称、句式灵活、声调铿锵，这些都是中文生命的常态。
 
 ---
-![]()(http://ov82ohkmk.bkt.clouddn.com/17-9-7/30600001.jpg)
+![](http://ov82ohkmk.bkt.clouddn.com/17-9-7/30600001.jpg)
 
 想要看清事物的真实模样，不妨离远一点，甚至站在它的对立面。
 
