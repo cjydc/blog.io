@@ -7,7 +7,7 @@ tags: [读书]
 description: 措词简洁、语法对称、句式灵活、声调铿锵，这些都是中文生命的常态。
 
 ---
-![](http://ov82ohkmk.bkt.clouddn.com/17-9-7/30600001.jpg)
+![](http://ov82ohkmk.bkt.clouddn.com/17-9-11/25587960.jpg)
 
 想要看清事物的真实模样，不妨离远一点，甚至站在它的对立面。
 
